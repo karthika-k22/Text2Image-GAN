@@ -43,7 +43,7 @@ Toggle Notebook access to ON.
 This project utilizes a decoupled architecture where the frontend (Colab UI) sends asynchronous requests to a remote GPU-accelerated server. The system bypasses legacy GAN limitations by using Latent Diffusion, which offers superior text-alignment and image quality.
 
 **📝 Result**
-The dashboard successfully synthesizes 1024×1024 images in under 30 seconds. Below is an example of the output for the prompt: "A whale in a deep ocean, cinematic 8k".
+The dashboard successfully synthesizes 1024×1024 images in under 30 seconds. 
 
 **🤝 Contributing**
 Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
